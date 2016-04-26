@@ -2,7 +2,7 @@
 
 A simple JS stackoverflow chat bot
 
-Can be found in the room https://github.com/Shubhank101/SO_ChatBot
+Can be found in the room http://chat.stackoverflow.com/rooms/26424/iosandroidchaosoverflow
 
 ## Commands
 
