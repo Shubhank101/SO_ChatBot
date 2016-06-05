@@ -2,7 +2,7 @@
 
 A simple JS stackoverflow chat bot
 
-Can be found in the [iOS][Android][ChaosOverlow] [room](http://chat.stackoverflow.com/rooms/26424/iosandroidchaosoverflow) on Stackoverflow.
+Can be found in the `[iOS][Android][ChaosOverlow]` [room](http://chat.stackoverflow.com/rooms/26424/iosandroidchaosoverflow) on Stackoverflow.
 
 ## Working
 
@@ -36,7 +36,6 @@ Can be used by super admin. to suspend the bot (wont respond till awake command 
 ````
 greets user to the chat
 
----
 ```
 /greet (can be used with a name to ping the person)
 ````
@@ -70,7 +69,7 @@ Search wikipedia for the query and returns the first result in the chat.
 Search youtube for the query and returns the first result in the chat. 
 
 
-** All of the command output a one-box in the chat most of the time **
+**All of the command output a one-box in the chat most of the time**
 
 ---
 ## Games
