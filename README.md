@@ -2,7 +2,7 @@
 
 A simple JS stackoverflow chat bot
 
-Can be found in the room http://chat.stackoverflow.com/rooms/26424/iosandroidchaosoverflow
+Can be found in the [iOS][Android][ChaosOverlow] [room](http://chat.stackoverflow.com/rooms/26424/iosandroidchaosoverflow) on Stackoverflow.
 
 ## Working
 
