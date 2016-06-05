@@ -69,7 +69,7 @@ Search wikipedia for the query and returns the first result in the chat.
 Search youtube for the query and returns the first result in the chat. 
 
 
-**All of the command output a one-box in the chat most of the time**
+**All of the search commands output a one-box in the chat most of the time**
 
 ---
 ## Games
