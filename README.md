@@ -52,7 +52,28 @@ greets user to the chat with sarcasm.
 /flip
 ````
 --- 
-# GAMES
+
+## Search
+```
+/search <query> 
+```
+Search stackoverflow for the query and returns the first result in the chat. 
+
+```
+/wiki <query>
+```
+Search wikipedia for the query and returns the first result in the chat. 
+
+```
+/youtube <query>
+```
+Search youtube for the query and returns the first result in the chat. 
+
+
+** All of the command output a one-box in the chat most of the time **
+
+---
+## Games
 
 1. Hangman 
 Use /hang to start the game or simply show current game output.
